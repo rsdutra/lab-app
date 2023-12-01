@@ -1,0 +1,17 @@
+.login{
+  margin-top: 50px;
+}
+body {
+  height: 100%;
+}
+.form-signin {
+  min-width: 330px;
+  padding: 1rem;
+}
+.bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color: rgba(43,48,53,1);
+}
+.main{
+  margin-top: 50px;
+}
